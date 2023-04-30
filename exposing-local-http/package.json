@@ -2,5 +2,8 @@
   "name": "exposing-local-http",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
 }
