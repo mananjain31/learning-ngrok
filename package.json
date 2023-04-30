@@ -1,0 +1,9 @@
+{
+  "name": "learning-ngrock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ngrok": "^4.3.3"
+  }
+}
