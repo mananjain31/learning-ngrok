@@ -24,7 +24,7 @@ yarn ngrok authtoken <your-authtoken>
 # Expose Your Local `HTTP Server`
 Have you ever wanted to share your local server with someone outside your network? With ngrok, it's easy! Follow these simple steps to get started.
 
-Navigate to the `exposing-local-http` project folder and serve the static files using http-server. This project contains a simple index.html file that will be served by http-server on port 8000.
+Navigate to the `exposing-local-http` project folder and serve the static files using http-server. This project contains a simple index.html file that will be served by http-server on port 8080.
 
 ```bash
 yarn http-server .
@@ -42,7 +42,7 @@ Happy sharing!
 # Expose your Local `Websocket Server` or `TCP Server`
 Have you ever wanted to share your local websocket server with someone outside your network? With ngrok, it's easy! Follow these simple steps to get started.
 
-Navigate to the `exposing-local-websocket` project folder and serve the static files using http-server. This project contains a simple index.html file that will be served by http-server on port 8000.
+Navigate to the `exposing-local-websocket` project folder and serve the static files using http-server. This project contains a simple index.html file that will be served by http-server on port 8080.
 
 ```bash
 node index.js
